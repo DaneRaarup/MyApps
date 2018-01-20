@@ -1,0 +1,15 @@
+button {
+    background-color: rgb(255, 95, 95);
+    border: 1vmin solid red
+}
+input {
+    background-color: rgb(95, 106, 255);
+    border: 1vmin solid rgb(76, 0, 255)
+}
+body {
+    background-color: lightblue;
+    padding-top: 1in;
+}
+.winner {
+    color: green
+}
