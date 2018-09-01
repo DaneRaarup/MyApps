@@ -1,11 +1,11 @@
 button {
-    background-color: rgb(255, 95, 95);
-    border: 1vmin solid red
+    background-color: black;
+    color: white;
 }
 
 input {
-    background-color: rgb(95, 106, 255);
-    border: 1vmin solid rgb(76, 0, 255)
+    background-color: white;
+    color: black;
 }
 
 body {
@@ -15,6 +15,9 @@ body {
 
 .winner {
     color: green
+}
+.winner2 {
+    color: lightgreen
 }
 
 a {
