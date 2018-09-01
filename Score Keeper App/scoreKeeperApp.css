@@ -1,12 +1,13 @@
 button {
     background-color: black;
     color: white;
-    font-size: 100px;
+    font-size: 50px;
 }
 
 input {
     background-color: white;
     color: black;
+    font-size: 50px;
 }
 
 body {
